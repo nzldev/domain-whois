@@ -200,11 +200,11 @@ class Whois
         return false;
     }
 
-    public function jsonInfo(): string
-    {
-        $dataCollection = new JsonFormatter($this->info());
-
-        return $dataCollection->getData();
-    }
+//    public function jsonInfo(): string
+//    {
+//        $dataCollection = new JsonFormatter($this->info());
+//
+//        return $dataCollection->getData();
+//    }
 }
 
