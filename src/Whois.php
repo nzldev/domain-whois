@@ -3,8 +3,6 @@
 
 namespace NzlDev\Whois;
 
-use NzlDev\Whois\JsonFormatter;
-
 class Whois
 {
     private $domain;

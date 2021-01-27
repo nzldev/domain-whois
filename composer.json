@@ -4,8 +4,16 @@
     "keywords": [
         "whois",
         "Domain",
-        "DNS"
+        "DNS",
+        "tld",
+        "domain",
+        "lookup",
+        "info",
+        "asn",
+        "routes",
+        "parser"
     ],
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
@@ -23,6 +31,11 @@
     "autoload": {
         "psr-4": {
             "NzlDev\\Whois\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "": [ "tests/" ]
         }
     }
 }
