@@ -10,7 +10,6 @@
         "lookup",
         "info",
         "asn",
-        "routes",
         "parser"
     ],
     "type": "library",
