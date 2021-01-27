@@ -1,2 +1,3 @@
 tests
 .DS_Store
+src/JsonFormatter.php
