@@ -2,6 +2,8 @@
 
 This package contains a class that can fetch DNS records and whois info.
 
+``composer require nzldev/domain-whois``
+
 ## Example of usage
 
 ```php
